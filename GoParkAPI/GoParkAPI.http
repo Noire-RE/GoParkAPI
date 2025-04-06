@@ -1,0 +1,6 @@
+@GoParkAPI_HostAddress = http://localhost:5236
+
+GET {{GoParkAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
